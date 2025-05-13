@@ -7,7 +7,7 @@ const cooldowns = {
   cgweekly: 7 * 24 * 60 * 60 * 1000,       // 7 days
   cmmonthly: 30 * 24 * 60 * 60 * 1000      // 30 days
 };
-
+ 
 
 module.exports = {
   name: 'cmcd',

@@ -1,5 +1,4 @@
 
-// cmplay.js - Full Cricket Match with Stats, XP, Rewards
 const { EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle, ComponentType, StringSelectMenuBuilder } = require('discord.js');
 const User = require('../database/userModel');
 
